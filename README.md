@@ -312,6 +312,25 @@ app.Run();]
 
 ---
 
+## 🔁 Mermaid Diagram
+
+flowchart TD
+    A[RShiny UI] -->|GET| B[.NET 8 Web API]
+    B -->|Query| C[(SQL Server LocalDB)]
+    C -->|Return Logs| B
+    B -->|JSON| A
+    D[simulate_logs.R] -->|POST JSON| B
+    E[Swagger UI] -->|Test API| B
+    subgraph Frontend
+        A
+        D
+    end
+    subgraph Backend
+        B
+        C
+    end
+    E --- B
+    
 ## 🧠 Why This Matters
 
 This project is more than just a tech demo—it represents how AI can empower both emerging and experienced developers to:

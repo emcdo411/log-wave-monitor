@@ -314,6 +314,7 @@ app.Run();]
 
 ## 🔁 Mermaid Diagram
 
+```mermaid
 flowchart TD
     A[RShiny UI] -->|GET| B[.NET 8 Web API]
     B -->|Query| C[(SQL Server LocalDB)]
@@ -330,6 +331,8 @@ flowchart TD
         C
     end
     E --- B
+```
+
     
 ## 🧠 Why This Matters
 

@@ -34,6 +34,35 @@ This solution was built by a career-transitioning technologist using **AI engine
 
 ---
 
+## ⚙️ Tech Stack & Tools
+
+### 💻 Languages & Frameworks
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET-8.0-purple?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL--Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-2C3E50?style=for-the-badge\&logo=r\&logoColor=white)
+
+### 🛠 Tooling
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+### 📦 R Packages
+
+![httr](https://img.shields.io/badge/httr-CRAN-blue)
+![jsonlite](https://img.shields.io/badge/jsonlite-CRAN-blue)
+![ggplot2](https://img.shields.io/badge/ggplot2-CRAN-blue)
+![lubridate](https://img.shields.io/badge/lubridate-CRAN-blue)
+![dplyr](https://img.shields.io/badge/dplyr-CRAN-blue)
+![shiny](https://img.shields.io/badge/shiny-CRAN-blue)
+![DT](https://img.shields.io/badge/DT-CRAN-blue)
+
+---
+
 ## 📦 R Code Samples
 
 ### `app.R`
@@ -106,4 +135,5 @@ Whether you're deploying to the cloud or debugging on localhost, **LogWaveMonito
 ---
 
 ## 🏷️ Hashtags
+
 
